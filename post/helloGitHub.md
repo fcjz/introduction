@@ -1,6 +1,6 @@
 ---
-title:HelloGitHub
-date:2022/11/4
+title: "HelloGitHub"
+date: 2022-11-04
 ---
 Hello GitHub!
 
